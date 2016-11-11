@@ -6,16 +6,14 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
+## Contents
 
-- [Awesome Leadership](#awesome-leadership)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [List Particulars](#list-particulars)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Awesome Leadership
+## List Particulars
 
 ### Contributing
 
