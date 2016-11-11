@@ -4,7 +4,20 @@
   maintaining a community and its events.
 
 
-## Contributing
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Awesome Leadership](#awesome-leadership)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+## Awesome Leadership
+
+### Contributing
 
 Thank you in advance for contributing to this list. By contributing,
 you agree to abide by the [Code of Conduct](code_of_conduct.md).
@@ -14,7 +27,7 @@ pull requests are held to the same requirements listed there. Your
 contribution is appreciated but remember let's keep it `awesome`! 🎉
 
 
-## License
+### License
 
 [![Creative Commons License][cc-by-badge]][cc-by-license]
 
