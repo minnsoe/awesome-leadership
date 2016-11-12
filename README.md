@@ -1,28 +1,40 @@
 # Awesome Leadership [![Awesome][badge]](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome resources for setting up, running, and
-  maintaining a community and its events.
+> A curated list of awesome resources for setting up, running, and maintaining a
+  community and its events.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
+- [Code of Conduct](#code-of-conduct)
 - [List Particulars](#list-particulars)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Code of Conduct
+
+A Code of Conduct formally defines what is acceptable, unacceptable, and
+encouraged behaviour. Whilst a Code of Conduct may not solve deeply rooted
+issues, it is still important to put down in writing the community norms in a
+clear and certain manner. Please remember that a Code of Conduct does not negate
+the necessity to lead by example.
+
+- [Contributor Covenant](http://contributor-covenant.org/) - A Code of Conduct
+  for Open Source Projects.
 
 
 ## List Particulars
 
 ### Contributing
 
-Thank you in advance for contributing to this list. By contributing,
-you agree to abide by the [Code of Conduct](code_of_conduct.md).
+Thank you in advance for contributing to this list. By contributing, you agree
+to abide by the [Code of Conduct](code_of_conduct.md).
 
-This list aligns with the [`awesome` manifesto][add-to-list] and hence
-pull requests are held to the same requirements listed there. Your
-contribution is appreciated but remember let's keep it `awesome`! 🎉
+This list aligns with the [`awesome` manifesto][add-to-list] and hence pull
+requests are held to the same requirements listed there. Your contribution is
+appreciated but remember let's keep it `awesome`! 🎉
 
 
 ### License
