@@ -23,6 +23,7 @@ the necessity to lead by example.
 
 - [Contributor Covenant](http://contributor-covenant.org/) - A Code of Conduct
   for Open Source Projects.
+  for Open Source Projects. (CC BY 4.0)
 
 
 ## List Particulars
