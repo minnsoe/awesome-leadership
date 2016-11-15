@@ -34,6 +34,10 @@ the necessity to lead by example.
 - [Hack Code of Conduct](http://hackcodeofconduct.org/) - A Code of Conduct for
   Hackathons.
 
+- [Citizen Code of Conduct](http://citizencodeofconduct.org/) - A Code of
+  Conduct Adapted From the Django Code of Conduct and the Geek Feminism
+  Anti-Harassment Policy. (CC BY-SA 3.0)
+
 
 ## List Particulars
 
