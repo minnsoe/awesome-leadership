@@ -4,6 +4,15 @@
   community and its events.
 
 
+This list was inspired by the [Mozilla Open Leadership][olts] programme by the
+wonderful Abigail C. Mayes ([@acabunoc](https://github.com/acabunoc))
+and [contributors][olts-contributors]. 🔥🙌
+
+The goal of this list is to make it easier to run an open and inclusive
+community by letting you focus on its specifics. The programme above is great
+for this purpose. Use this list for the rest or if you're short on time.
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
@@ -13,6 +22,7 @@
 - [List Particulars](#list-particulars)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Code of Conduct
 
@@ -70,3 +80,5 @@ appreciated but remember let's keep it `awesome`! 🎉
 [cc-by-license]: https://creativecommons.org/licenses/by/4.0/
 [badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [add-to-list]: https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-to-this-list
+[olts]: https://mozilla.github.io/open-leadership-training-series
+[olts-contributors]: https://github.com/mozilla/open-leadership-training-series/network/members
