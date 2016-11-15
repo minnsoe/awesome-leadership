@@ -19,6 +19,7 @@ for the specifics. Use this list for the rest or if you're short on time.
 
 - [Code of Conduct](#code-of-conduct)
 - [Communications & Coordination](#communications--coordination)
+- [Collaboration](#collaboration)
 - [List Particulars](#list-particulars)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -78,6 +79,16 @@ out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 - [Discord](https://discordapp.com/) - It's time to ditch Skype and Teamspeak.
 
 - [Gitter](https://gitter.im/) - Where Communities Thrive.
+
+
+## Collaboration
+
+Whether you're working alone or with collaborators, an organisation or event
+produces a lot of documentation during development and planning. It's important
+to create an open space (with sensitive material under appropriate access
+control) to allow contributors to be productive. Version control software like
+`git` or `mercurial`, typically used for code, can also be used for
+collaborating on organisational matters.
 
 
 ## List Particulars
