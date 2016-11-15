@@ -61,6 +61,10 @@ website, blog, IRC channel, or even a chat bot.
 - [GitHub Pages](https://pages.github.com/) - Websites for You and Your
   Projects.
 
+- [GitLab Pages](https://pages.gitlab.io/) - Websites for Your GitLab Projects,
+  User Account or Group.
+
+
 ## List Particulars
 
 ### Contributing
