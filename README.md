@@ -77,6 +77,8 @@ out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 
 - [Discord](https://discordapp.com/) - It's time to ditch Skype and Teamspeak.
 
+- [Gitter](https://gitter.im/) - Where Communities Thrive.
+
 
 ## List Particulars
 
