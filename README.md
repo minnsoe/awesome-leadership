@@ -10,7 +10,7 @@ and [contributors][olts-contributors]. 🔥🙌
 
 The goal of this list is to make it easier to run an open and inclusive
 community by letting you focus on its specifics. The programme above is great
-for this purpose. Use this list for the rest or if you're short on time.
+for the specifics. Use this list for the rest or if you're short on time.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
