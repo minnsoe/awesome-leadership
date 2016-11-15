@@ -75,6 +75,8 @@ out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 
 - [Slack](https://slack.com/) - Messaging for Teams.
 
+- [Discord](https://discordapp.com/) - It's time to ditch Skype and Teamspeak.
+
 
 ## List Particulars
 
