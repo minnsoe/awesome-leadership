@@ -28,6 +28,9 @@ the necessity to lead by example.
 - [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) -
   Write Your Own Code of Conduct.
 
+- [Conference Code of Conduct](http://confcodeofconduct.com/) - A Code of
+  Conduct Used at `jsconf.eu`, 2012. (CC BY 3.0)
+
 
 ## List Particulars
 
