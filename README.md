@@ -67,6 +67,9 @@ website, blog, IRC channel, or even a chat bot.
 
 ### Chat
 
+Interested in mixing chat with automation and bots? Check
+out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
+
 
 ## List Particulars
 
