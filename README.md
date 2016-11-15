@@ -56,6 +56,9 @@ organisation, project, or event. They also serve as a means of coordination for
 both timing and vision. These channels come in many forms and it can be a
 website, blog, IRC channel, or even a chat bot.
 
+### Static Page Hosting
+
+
 
 ## List Particulars
 
