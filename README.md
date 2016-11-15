@@ -94,6 +94,9 @@ collaborating on organisational matters.
 
 - [GitHub](https://github.com/) - Online Project Hosting Using Git.
 
+- [GitLab](https://gitlab.com/) - GitLab Unifies Issues, Code Review, CI and CD
+  Into a Single UI.
+
 
 ## List Particulars
 
