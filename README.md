@@ -9,6 +9,7 @@
 ## Contents
 
 - [Code of Conduct](#code-of-conduct)
+- [Communications & Coordination](#communications--coordination)
 - [List Particulars](#list-particulars)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,6 +37,14 @@ the necessity to lead by example.
 - [Citizen Code of Conduct](http://citizencodeofconduct.org/) - A Code of
   Conduct Adapted From the Django Code of Conduct and the Geek Feminism
   Anti-Harassment Policy. (CC BY-SA 3.0)
+
+
+## Communications & Coordination
+
+Communications channels help others discover, share, and contribute to an
+organisation, project, or event. They also serve as a means of coordination for
+both timing and vision. These channels come in many forms and it can be a
+website, blog, IRC channel, or even a chat bot.
 
 
 ## List Particulars
