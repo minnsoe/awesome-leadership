@@ -73,6 +73,8 @@ out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 - [Mattermost](https://www.mattermost.org/) - Mattermost Is an Open Source,
   Self-Hosted Slack-Alternative.
 
+- [Slack](https://slack.com/) - Messaging for Teams.
+
 
 ## List Particulars
 
