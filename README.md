@@ -58,7 +58,8 @@ website, blog, IRC channel, or even a chat bot.
 
 ### Static Page Hosting
 
-
+- [GitHub Pages](https://pages.github.com/) - Websites for You and Your
+  Projects.
 
 ## List Particulars
 
