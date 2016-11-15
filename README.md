@@ -70,6 +70,9 @@ website, blog, IRC channel, or even a chat bot.
 Interested in mixing chat with automation and bots? Check
 out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 
+- [Mattermost](https://www.mattermost.org/) - Mattermost Is an Open Source,
+  Self-Hosted Slack-Alternative.
+
 
 ## List Particulars
 
