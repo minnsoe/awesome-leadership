@@ -25,6 +25,9 @@ the necessity to lead by example.
   for Open Source Projects.
   for Open Source Projects. (CC BY 4.0)
 
+- [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) -
+  Write Your Own Code of Conduct.
+
 
 ## List Particulars
 
