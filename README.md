@@ -22,7 +22,6 @@ clear and certain manner. Please remember that a Code of Conduct does not negate
 the necessity to lead by example.
 
 - [Contributor Covenant](http://contributor-covenant.org/) - A Code of Conduct
-  for Open Source Projects.
   for Open Source Projects. (CC BY 4.0)
 
 - [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) -
