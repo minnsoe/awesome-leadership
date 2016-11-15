@@ -28,7 +28,7 @@ the necessity to lead by example.
   Write Your Own Code of Conduct.
 
 - [Conference Code of Conduct](http://confcodeofconduct.com/) - A Code of
-  Conduct Used at `jsconf.eu`, 2012. (CC BY 3.0)
+  Conduct Used at [jsconf.eu](http://jsconf.eu/), 2012. (CC BY 3.0)
 
 - [Hack Code of Conduct](http://hackcodeofconduct.org/) - A Code of Conduct for
   Hackathons.
