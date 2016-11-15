@@ -31,6 +31,9 @@ the necessity to lead by example.
 - [Conference Code of Conduct](http://confcodeofconduct.com/) - A Code of
   Conduct Used at `jsconf.eu`, 2012. (CC BY 3.0)
 
+- [Hack Code of Conduct](http://hackcodeofconduct.org/) - A Code of Conduct for
+  Hackathons.
+
 
 ## List Particulars
 
