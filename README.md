@@ -34,19 +34,19 @@ clear and certain manner. Please remember that a Code of Conduct does not negate
 the necessity to lead by example.
 
 - [Contributor Covenant](http://contributor-covenant.org/) - A Code of Conduct
-  for Open Source Projects. (CC BY 4.0)
+  for open source projects. (CC BY 4.0)
 
 - [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) -
-  Write Your Own Code of Conduct.
+  Write your own Code of Conduct.
 
 - [Conference Code of Conduct](http://confcodeofconduct.com/) - A Code of
-  Conduct Used at [jsconf.eu](http://jsconf.eu/), 2012. (CC BY 3.0)
+  Conduct used at [jsconf.eu](http://jsconf.eu/), 2012. (CC BY 3.0)
 
 - [Hack Code of Conduct](http://hackcodeofconduct.org/) - A Code of Conduct for
-  Hackathons.
+  hackathons.
 
 - [Citizen Code of Conduct](http://citizencodeofconduct.org/) - A Code of
-  Conduct Adapted From the Django Code of Conduct and the Geek Feminism
+  Conduct adapted from the Django Code of Conduct and the Geek Feminism
   Anti-Harassment Policy. (CC BY-SA 3.0)
 
 
@@ -59,11 +59,11 @@ website, blog, IRC channel, or even a chat bot.
 
 ### Static Page Hosting
 
-- [GitHub Pages](https://pages.github.com/) - Websites for You and Your
-  Projects.
+- [GitHub Pages](https://pages.github.com/) - Websites for you and your
+  projects.
 
-- [GitLab Pages](https://pages.gitlab.io/) - Websites for Your GitLab Projects,
-  User Account or Group.
+- [GitLab Pages](https://pages.gitlab.io/) - Websites for your GitLab projects,
+  user account or group.
 
 
 ### Chat
@@ -71,14 +71,14 @@ website, blog, IRC channel, or even a chat bot.
 Interested in mixing chat with automation and bots? Check
 out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 
-- [Mattermost](https://www.mattermost.org/) - Mattermost Is an Open Source,
-  Self-Hosted Slack-Alternative.
+- [Mattermost](https://www.mattermost.org/) - Mattermost is an open source,
+  self-hosted Slack-alternative.
 
-- [Slack](https://slack.com/) - Messaging for Teams.
+- [Slack](https://slack.com/) - Messaging for teams.
 
-- [Discord](https://discordapp.com/) - It's Time to Ditch Skype and Teamspeak.
+- [Discord](https://discordapp.com/) - It's time to ditch Skype and Teamspeak.
 
-- [Gitter](https://gitter.im/) - Where Communities Thrive.
+- [Gitter](https://gitter.im/) - Where communities thrive.
 
 
 ## Collaboration
@@ -92,12 +92,12 @@ collaborating on organisational matters.
 
 ### Version Control Hosting
 
-- [GitHub](https://github.com/) - Online Project Hosting Using Git.
+- [GitHub](https://github.com/) - Online project hosting using Git.
 
-- [GitLab](https://gitlab.com/) - GitLab Unifies Issues, Code Review, CI and CD
-  Into a Single UI.
+- [GitLab](https://gitlab.com/) - GitLab unifies issues, code review, CI and CD
+  into a single UI.
 
-- [BitBucket](https://bitbucket.org/) - Code, Manage, Collaborate.
+- [BitBucket](https://bitbucket.org/) - Code, manage, collaborate.
 
 
 ### Work Tracking
