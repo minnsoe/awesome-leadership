@@ -65,6 +65,9 @@ website, blog, IRC channel, or even a chat bot.
   User Account or Group.
 
 
+### Chat
+
+
 ## List Particulars
 
 ### Contributing
