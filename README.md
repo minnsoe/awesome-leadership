@@ -87,6 +87,9 @@ If you're maintaining an email list for a campaign, it's a good idea to have
 double opt-in. This helps reduce bounce rates, improve engagement, and most
 importantly it's courteous.
 
+- [MailChimp](https://mailchimp.com/) - Online email marketing solution to
+  manage subscribers, send emails, and track results.
+
 
 ## Collaboration
 
