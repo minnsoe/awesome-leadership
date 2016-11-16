@@ -81,6 +81,13 @@ out [`awesome-chatops`](https://github.com/exAspArk/awesome-chatops)!
 - [Gitter](https://gitter.im/) - Where communities thrive.
 
 
+### Email
+
+If you're maintaining an email list for a campaign, it's a good idea to have
+double opt-in. This helps reduce bounce rates, improve engagement, and most
+importantly it's courteous.
+
+
 ## Collaboration
 
 Whether you're working alone or with collaborators, an organisation or event
