@@ -123,6 +123,9 @@ This list aligns with the [`awesome` manifesto][add-to-list] and hence pull
 requests are held to the same requirements listed there. Your contribution is
 appreciated but remember let's keep it `awesome`! 🎉
 
+Please read the [Contributor Guidelines](contributing.md) before contributing to
+this list.
+
 
 ### License
 
