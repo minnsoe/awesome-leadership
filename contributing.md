@@ -35,7 +35,9 @@ Please ensure your pull request adheres to the following guidelines:
   category.
 - Make an individual pull request for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
-- Please use British English for consistency.
+- Please use British English and
+  the [Oxford](https://www.youtube.com/watch?v=lLMawsZ4vdo) comma for
+  consistency.
 - Please use the following entry format: `[Entry Name in Title Case](link) -
   Description in sentence case.`
 - Link additions should be added to the bottom of the relevant category.
