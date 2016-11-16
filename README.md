@@ -90,6 +90,9 @@ importantly it's courteous.
 - [MailChimp](https://mailchimp.com/) - Online email marketing solution to
   manage subscribers, send emails, and track results.
 
+- [MailerLite](https://www.mailerlite.com/) - Email marketing software, services
+  and newsletters.
+
 
 ## Collaboration
 
