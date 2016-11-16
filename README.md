@@ -9,8 +9,8 @@ wonderful Abigail C. Mayes ([@acabunoc](https://github.com/acabunoc))
 and [contributors][olts-contributors]. 🔥🙌
 
 The goal of this list is to make it easier to run an open and inclusive
-community by letting you focus on its specifics. The programme above is great
-for the specifics. Use this list for the rest or if you're short on time.
+community by helping you focus on its specifics. The programme above is great
+for the details. Use this list for the rest or if you're short on time.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
